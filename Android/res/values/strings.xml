@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArduinoBluetooth</string>
+    <string name="led_1">LED 1</string>
+    <string name="led_2">LED 2</string>
+    <string name="dispositivos">Dispositivos Vinculados</string>
+    <string name="conectado">Conectado</string>
+    <string name="error">Error al Conectar</string>
+    <string name="primero_conectar">Primero debes conectar</string>
+</resources>
